@@ -1,7 +1,6 @@
 # Data and software services - case thermal camera analysis
 
 
-
 ## Face temperature measurements from crowd thermal camera image
 
 - Shared experience in the audience
@@ -13,6 +12,9 @@
 
 ***
 
+<span style="display: block; height: 30vh;"></span>
+
+
 ## Data and computing is everywhere
 
 ![Examples of data and RSE projects. Data collection platform for smart devices - SCI. Make code easily installable - ELEC. Interactive website visualizing force fields - CHEM. Data processing, spreadsheets to code Publishing microscope control data- SCI. DigiTraffic API scraper - BIZ.](projects.png)
@@ -22,6 +24,9 @@
 - [Aalto Research Software Engineers](https://scicomp.aalto.fi/rse/)
 
 ***
+
+<span style="display: block; height: 30vh;"></span>
+
 
 
 ## Research Software Engineers
@@ -62,6 +67,9 @@
 
 ***
 
+<span style="display: block; height: 30vh;"></span>
+
+
 
 ## Data Agents: domain-aware data support
 
@@ -75,6 +83,9 @@
 
 ***
 
+<span style="display: block; height: 30vh;"></span>
+
+
 
 ## Reading the file
 - Extracting a grid of temperature values from the seq file data.
@@ -85,8 +96,12 @@
 
 ***
 
+<span style="display: block; height: 30vh;"></span>
+
 
 ## Face tracking
+
+![Curves displaying multiple individual temperatures around 35C.](temp_data_original.png)
 
 - Simple face location algorithms:
   - Fitting an oval
@@ -95,13 +110,17 @@
 - Manual labeling and training a machine learning algorithm
 - https://github.com/rantahar/thermal_faces
 
-![Curves displaying multiple individual temperatures around 35C.](temp_data_original.png)
 
 ***
+
+<span style="display: block; height: 30vh;"></span>
 
 
 
 ## Individual temperatures
+
+![Curves displaying individual temperature fluctuations.](temp_data_final.png)
+
 
 - Noice, outliers and spurious correlations
   - Inconsistent face detection
@@ -109,9 +128,10 @@
   - Room and camera temperature changes
 - Control signal from an empty seat
 
-![Curves displaying individual temperature fluctuations.](temp_data_final.png)
 
 ***
+
+<span style="display: block; height: 30vh;"></span>
 
 
 ## The rest is research
@@ -126,3 +146,4 @@
   - aalto.fi/en/services/data-agents
   - researchdata@aalto.fi
 
+<span style="display: block; height: 30vh;"></span>
